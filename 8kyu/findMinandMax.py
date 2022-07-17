@@ -12,7 +12,7 @@
 # My Solution 
 def minimum(arr):
     #your code here...
-    return min(arr)
+    return min(arr
 
 def maximum(arr):
     #...and here
