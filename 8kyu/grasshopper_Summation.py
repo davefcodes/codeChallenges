@@ -14,4 +14,4 @@
 # My solution 
 
 def summation(num):
-    return sum(range(num + 1)
+    return sum(range(num + 1))
